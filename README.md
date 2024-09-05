@@ -66,24 +66,6 @@ Wait for a few seconds until Stackly opens in a new tab on your default browser.
 # **Data Source**
 Stackly uses course data from OSSU - Open Source Society University, which is a community-driven online learning platform that offers a comprehensive computer science curriculum for free. The data is stored in a Google Sheet, which is updated regularly to include new courses and resources.
 
-# **Team Members**
-
-Stackly was developed by a team of two members:
-
-- Danush Khanna (danush.s.khanna@gmail.com)
-- Sanyam Jain (sanyam0605@gmail.com)
-
-We are passionate about computer science education and wanted to create a tool that would help people learn new technologies more easily. We hope that Stackly will be useful to anyone who wants to learn and grow their skills in the field of computer science.
-
-# **Contact Us**
-
-If you have any questions or comments, please feel free to contact us at our GitHub repository or email.
-
-# **Contributing**
-If you want to contribute to Stackly, feel free to fork the repository and submit a pull request. You can also create an issue if you find a bug or have a suggestion for a new feature. We welcome all contributions and feedback!
-
-# **License**
-Stackly is released under the <ins>Apache License 2.0</ins>.
 
 # **Conclusion**
 
